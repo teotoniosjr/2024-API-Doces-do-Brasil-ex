@@ -1,7 +1,54 @@
 {
-    "Norte": "Brigadeiro",
-    "Nordeste": "Beijinho",
-    "Centro-Oeste": "Pavê",
-    "Sudeste": "Pudim",
-    "Sul": "Bolo de Chocolate"
+  "consumo_por_regiao": {
+    "Norte": {
+      "mais_consumido": "Brigadeiro",
+      "top_5_doces": {
+        "Brigadeiro": "30%",
+        "Beijinho": "20%",
+        "Pavê": "15%",
+        "Quindim": "10%",
+        "Bolo de Cenoura": "8%"
+      }
+    },
+    "Nordeste": {
+      "mais_consumido": "Beijinho",
+      "top_5_doces": {
+        "Beijinho": "25%",
+        "Pavê": "20%",
+        "Brigadeiro": "18%",
+        "Pudim": "12%",
+        "Cocada": "10%"
+      }
+    },
+    "Centro-Oeste": {
+      "mais_consumido": "Pavê",
+      "top_5_doces": {
+        "Pavê": "28%",
+        "Brigadeiro": "25%",
+        "Beijinho": "20%",
+        "Bolo de Cenoura": "10%",
+        "Torta de Limão": "7%"
+      }
+    },
+    "Sudeste": {
+      "mais_consumido": "Pudim",
+      "top_5_doces": {
+        "Pudim": "22%",
+        "Brigadeiro": "20%",
+        "Bolo de Chocolate": "18%",
+        "Beijinho": "15%",
+        "Quindim": "10%"
+      }
+    },
+    "Sul": {
+      "mais_consumido": "Bolo de Chocolate",
+      "top_5_doces": {
+        "Bolo de Chocolate": "25%",
+        "Brigadeiro": "23%",
+        "Pudim": "20%",
+        "Torta de Limão": "15%",
+        "Beijinho": "10%"
+      }
+    }
   }
+}
