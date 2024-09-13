@@ -3,51 +3,51 @@
     "Norte": {
       "mais_consumido": "Brigadeiro",
       "top_5_doces": {
-        "Brigadeiro": "30%",
-        "Beijinho": "20%",
-        "Pavê": "15%",
-        "Quindim": "10%",
-        "Bolo de Cenoura": "8%"
+        "Brigadeiro": 300000,
+        "Beijinho": 200000,
+        "Pavê": 150000,
+        "Quindim": 100000,
+        "Bolo de Cenoura": 80000
       }
     },
     "Nordeste": {
       "mais_consumido": "Beijinho",
       "top_5_doces": {
-        "Beijinho": "25%",
-        "Pavê": "20%",
-        "Brigadeiro": "18%",
-        "Pudim": "12%",
-        "Cocada": "10%"
+        "Beijinho": 250000,
+        "Pavê": 200000,
+        "Brigadeiro": 180000,
+        "Pudim": 120000,
+        "Cocada": 100000
       }
     },
     "Centro-Oeste": {
       "mais_consumido": "Pavê",
       "top_5_doces": {
-        "Pavê": "28%",
-        "Brigadeiro": "25%",
-        "Beijinho": "20%",
-        "Bolo de Cenoura": "10%",
-        "Torta de Limão": "7%"
+        "Pavê": 280000,
+        "Brigadeiro": 250000,
+        "Beijinho": 200000,
+        "Bolo de Cenoura": 100000,
+        "Torta de Limão": 70000
       }
     },
     "Sudeste": {
       "mais_consumido": "Pudim",
       "top_5_doces": {
-        "Pudim": "22%",
-        "Brigadeiro": "20%",
-        "Bolo de Chocolate": "18%",
-        "Beijinho": "15%",
-        "Quindim": "10%"
+        "Pudim": 220000,
+        "Brigadeiro": 200000,
+        "Bolo de Chocolate": 180000,
+        "Beijinho": 150000,
+        "Quindim": 100000
       }
     },
     "Sul": {
       "mais_consumido": "Bolo de Chocolate",
       "top_5_doces": {
-        "Bolo de Chocolate": "25%",
-        "Brigadeiro": "23%",
-        "Pudim": "20%",
-        "Torta de Limão": "15%",
-        "Beijinho": "10%"
+        "Bolo de Chocolate": 250000,
+        "Brigadeiro": 230000,
+        "Pudim": 200000,
+        "Torta de Limão": 150000,
+        "Beijinho": 100000
       }
     }
   }
