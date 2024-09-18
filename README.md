@@ -1,5 +1,5 @@
 # 2024-API-Doces-do-Brasil-ex
-Bem-vindo ao repositório 2024-API-Doces-do-Brasil-ex! Esta API fornece dados ficticios JSON abrangentes sobre o consumo de doces em diversas regiões do Brasil.
+Bem-vindo ao repositório 2024-API-Doces-do-Brasil-ex! Esta API oferece dados fictícios em formato JSON sobre o consumo de doces em diversas regiões do Brasil, permitindo uma análise rica e informativa.
 
 ## Funcionalidades
 - *Dados Organizados:* A API apresenta informações estruturadas para fácil acesso e análise.
