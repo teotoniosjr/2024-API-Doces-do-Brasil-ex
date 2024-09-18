@@ -9,8 +9,11 @@ Bem-vindo ao repositório 2024-API-Doces-do-Brasil-ex! Esta API fornece dados fi
 
 ### Links
 [Dados gerais](https://raw.githubusercontent.com/teotoniosjr/2024-API-Doces-do-Brasil-ex/refs/heads/main/dados_gerais.json)
+
 [Doces por estado](https://raw.githubusercontent.com/teotoniosjr/2024-API-Doces-do-Brasil-ex/refs/heads/main/doce-por-estado.json)
+
 [Dados por região](https://raw.githubusercontent.com/teotoniosjr/2024-API-Doces-do-Brasil-ex/refs/heads/main/doces-por-regiao.json)
+
 [Votos por doces](https://raw.githubusercontent.com/teotoniosjr/2024-API-Doces-do-Brasil-ex/refs/heads/main/votos_por_doces.json)
 
 
